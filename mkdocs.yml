@@ -1,0 +1,37 @@
+site_name: MameBotヘルプ
+site_url: https://mamebot.readthedocs.io/
+copyright: ©2021 MameBot運営
+
+theme:
+  name: 'material'
+  language: ja
+  features:
+    - navigation.tabs
+    - navigation.top
+  logo: https://media.mamebot.gq/icon-r-500px.png
+  favicon: https://media.mamebot.gq/icon-r-100px.png
+  palette:
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/weather-night
+        name: ライトモードに切り替え
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: ダークモードに切り替え
+
+markdown_extensions:
+  - admonition
+
+nav:
+  - ホーム: index.md
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe-asia
+      link: https://mamebot.gq/
+      name: ホームページ
+    - icon: fontawesome/brands/discord
+      link: https://mamebot.gq/support
+      name: サポートサーバー
