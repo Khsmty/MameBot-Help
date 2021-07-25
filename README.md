@@ -1,4 +1,4 @@
-# MameBot-Docs
+# MameBot-Help
 
 [![Documentation Status](https://readthedocs.org/projects/mamebot/badge/?version=latest)](https://mamebot.readthedocs.io/?badge=latest)
 
