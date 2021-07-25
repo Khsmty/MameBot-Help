@@ -11,15 +11,8 @@ theme:
   logo: https://media.mamebot.gq/icon-r-500px.png
   favicon: https://media.mamebot.gq/icon-r-100px.png
   palette:
-    - scheme: slate
-      primary: blue
-      toggle:
-        icon: material/weather-night
-        name: ライトモードに切り替え
-    - scheme: default
-      toggle:
-        icon: material/weather-sunny
-        name: ダークモードに切り替え
+    primary: blue
+    accent: indigo
 
 markdown_extensions:
   - admonition
