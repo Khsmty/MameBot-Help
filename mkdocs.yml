@@ -16,9 +16,13 @@ theme:
 
 markdown_extensions:
   - admonition
+  - toc:
+    permalink: true
 
 nav:
   - ホーム: index.md
+  - コマンド: commands/index.md
+  - 機能: features/index.md
 
 extra:
   social:
