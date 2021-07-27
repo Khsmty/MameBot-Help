@@ -17,7 +17,7 @@ theme:
 markdown_extensions:
   - admonition
   - toc:
-    permalink: true
+      permalink: true
 
 nav:
   - ホーム: index.md
