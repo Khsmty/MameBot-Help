@@ -1,3 +1,21 @@
+[Google翻訳](https://translate.google.com/)で翻訳します。
+
+## 使用方法
+
+```
+m.translate <翻訳先の言語> <翻訳するテキスト
+m.trans <翻訳先の言語> <翻訳するテキスト
+m.tr <翻訳先の言語> <翻訳するテキスト
+```
+
+## 仕様例
+
+```
+m.translate ja Hello World!
+m.trans en こんにちは！
+m.tr zh-tw 今日は納豆を食べました。
+```
+
 ## 利用可能な言語一覧
 
 | 言語 | 言語コード |
