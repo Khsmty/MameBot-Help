@@ -1,3 +1,7 @@
+---
+title: translate
+---
+
 [Google翻訳](https://translate.google.com/)で翻訳します。
 
 ## 使用方法
@@ -8,7 +12,7 @@ m.trans <翻訳先の言語> <翻訳するテキスト
 m.tr <翻訳先の言語> <翻訳するテキスト
 ```
 
-## 仕様例
+## 使用例
 
 ```
 m.translate ja Hello World!
