@@ -32,3 +32,6 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://mamebot.gq/support
       name: サポートサーバー
+
+extra_css:
+  - style/style.css
