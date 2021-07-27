@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'IBMPlexSansJP';
+  src: local('IBMPlexSansJP'), local('IBMPlexSansJP-Regular'),
+    url('fonts/IBMPlexSansJP.woff2') format('woff2'),
+    url('fonts/IBMPlexSansJP.woff') format('woff');
+}
+* {
+  font-family: 'IBMPlexSansJP', sans-serif;
+}
